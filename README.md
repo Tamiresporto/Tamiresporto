@@ -1,10 +1,9 @@
-<img width="1100em" src=""/>
+<img width="1100em" src="https://media3.giphy.com/media/3gJRDvjz1vc666fxPl/giphy.webp?cid=ecf05e47dat9a25mbu641hdv2ns0t8qenhj553j1wkssmd61&rid=giphy.webp&ct=g"/>
 <h1>Hello World! Welcome, my name is Tamires Porto!</h1>
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Tamiresporto)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamires-porto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamires.silveira.porto@gmail.com)
-[![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()<img src="https://media3.giphy.com/media/3gJRDvjz1vc666fxPl/giphy.webp?cid=ecf05e47dat9a25mbu641hdv2ns0t8qenhj553j1wkssmd61&rid=giphy.webp&ct=g" width="45">
 
 
   <a href="https://github.com/Tamiresporto">
