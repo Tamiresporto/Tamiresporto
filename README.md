@@ -1,4 +1,4 @@
-<img width="1100em" src="https://media3.giphy.com/media/3gJRDvjz1vc666fxPl/giphy.webp?cid=ecf05e47dat9a25mbu641hdv2ns0t8qenhj553j1wkssmd61&rid=giphy.webp&ct=g"/>
+<img width="100em" src="https://media3.giphy.com/media/3gJRDvjz1vc666fxPl/giphy.webp?cid=ecf05e47dat9a25mbu641hdv2ns0t8qenhj553j1wkssmd61&rid=giphy.webp&ct=g"/>
 <h1>Hello World! Welcome, my name is Tamires Porto!</h1>
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Tamiresporto)
