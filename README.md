@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamires.silveira.porto@gmail.com)
 [![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()
 
+![image](https://user-images.githubusercontent.com/112409145/215228906-d83199c4-5570-4c8f-a272-417ddc8897d9.png)
+
 
   <a href="https://github.com/Tamiresporto">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maiconbre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
